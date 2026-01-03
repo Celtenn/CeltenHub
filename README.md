@@ -10,7 +10,7 @@
 
 **The architect doesn't just write code; he builds ecosystems.**
 
-[🚀 Demo](https://celten.net) · [📖 Documentation](#-documentation) · [🐛 Report Bug](https://github.com/Celtenn/celten-hub/issues) · [✨ Request Feature](https://github.com/Celtenn/celten-hub/issues)
+[🚀 Demo](https://celten.net)
 
 </div>
 

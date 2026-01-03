@@ -593,10 +593,10 @@ in the Software without restriction...
 **Enes Celten** - Ecosystem Architect
 
 - 🌐 Website: [celten.net](https://celten.net)
-- 📧 Email: enes@celten.info
+- 📧 Email: enescelten@gmail.com
 - 🐙 GitHub: [@Celtenn](https://github.com/Celtenn)
-- 💼 LinkedIn: [linkedin.com/in/celten](https://linkedin.com/in/celten)
-- 🐦 Twitter: [@celten_dev](https://twitter.com/celten_dev)
+- 💼 LinkedIn: [linkedin.com/in/celten](https://www.linkedin.com/in/enes-kahraman-99230336b/)
+- 📸 Instagram: [@celten_dev](https://www.instagram.com/enes_celten)
 
 ---
 

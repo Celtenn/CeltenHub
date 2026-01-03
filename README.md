@@ -596,7 +596,7 @@ in the Software without restriction...
 - 📧 Email: enescelten@gmail.com
 - 🐙 GitHub: [@Celtenn](https://github.com/Celtenn)
 - 💼 LinkedIn: [linkedin.com/in/celten](https://www.linkedin.com/in/enes-kahraman-99230336b/)
-- 📸 Instagram: [@celten_dev](https://www.instagram.com/celtendev)
+- 📸 Instagram: [@celten_dev](https://www.instagram.com/celten_dev)
 
 ---
 
